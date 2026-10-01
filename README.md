@@ -208,22 +208,6 @@ Implementation
 Machine Learning Model
 ```
 
----
-
-## 🔮 Future Improvements
-
-- [ ] Add Multiple Linear Regression
-- [ ] Add feature scaling
-- [ ] Add R² score from scratch
-- [ ] Add visualization of the cost function
-- [ ] Add learning-rate experiments
-- [ ] Add convergence visualization
-- [ ] Add comparison with Scikit-learn
-- [ ] Add regularization from scratch
-- [ ] Add Ridge Regression
-- [ ] Add Lasso Regression
-
----
 
 ## 👨‍💻 Author
 
